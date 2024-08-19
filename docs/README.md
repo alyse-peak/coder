@@ -46,7 +46,7 @@ See our [Templates](https://coder.com/docs/templates) and [Networking](https://c
 
 ## Get Started with Coder
 
-Ready to skip the docs and start using Coder now? Use this quick start to try Coder:
+Ready to skip the docs and start using Coder now? Use this quickstart to try Coder:
 
 <p align="center">
   <img src="./images/coder-quickstart.png">
